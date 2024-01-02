@@ -1,3 +1,3 @@
 # Git_Tutorial
 This is first tutorial
-Author - Lavish Singhal
+Author - Lavish Singhal (Developer)
